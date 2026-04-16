@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rby/rby.dart';
-import 'spacing_scheme.dart'
-import 'radius_scheme.dart'
+import 'spacing_scheme.dart';
+import 'radius_scheme.dart';
 
 @immutable
 class RbyTheme {
